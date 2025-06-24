@@ -5,14 +5,7 @@ Useful for configuring bots like **FXSignalForwarderTele** to set up routing fro
 
 ---
 
-## 🧾 Files Needed
-
-- `run.py` – Main script
-- `info.json` – Your Telegram API credentials
-
----
-
-## ✏️ Step 1: Information
+## ✏️ Step 1: Input Details
 
 Paste your API credentials in the info.json:
 > 🔐 You can get your API ID and hash from [https://my.telegram.org](https://my.telegram.org)
