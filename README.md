@@ -39,7 +39,7 @@ python run.py
 
 ## 👤 Creator
 
-Made by: **[@hazyx777](https://t.me/hazyx7)** 
+Made by: **[@hazyx7](https://t.me/hazyx7)** 
  
 
 ---
